@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaros\\Practice5\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{880AB176-CEE4-4562-A118-BEBBA1AAA854}|Task1\\Task1.csproj|c:\\users\\yaros\\practice5\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880AB176-CEE4-4562-A118-BEBBA1AAA854}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880AB176-CEE4-4562-A118-BEBBA1AAA854}|Task1\\Task1.csproj|c:\\users\\yaros\\practice5\\task1\\task1\\ilocationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880AB176-CEE4-4562-A118-BEBBA1AAA854}|Task1\\Task1.csproj|solutionrelative:task1\\ilocationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880AB176-CEE4-4562-A118-BEBBA1AAA854}|Task1\\Task1.csproj|c:\\users\\yaros\\practice5\\task1\\task1\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880AB176-CEE4-4562-A118-BEBBA1AAA854}|Task1\\Task1.csproj|solutionrelative:task1\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880AB176-CEE4-4562-A118-BEBBA1AAA854}|Task1\\Task1.csproj|c:\\users\\yaros\\practice5\\task1\\task1\\village.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880AB176-CEE4-4562-A118-BEBBA1AAA854}|Task1\\Task1.csproj|solutionrelative:task1\\village.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880AB176-CEE4-4562-A118-BEBBA1AAA854}|Task1\\Task1.csproj|c:\\users\\yaros\\practice5\\task1\\task1\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880AB176-CEE4-4562-A118-BEBBA1AAA854}|Task1\\Task1.csproj|solutionrelative:task1\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILocationInfo.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Practice5\\Task1\\Task1\\ILocationInfo.cs",
+              "RelativeDocumentMoniker": "Task1\\ILocationInfo.cs",
+              "ToolTip": "C:\\Users\\yaros\\Practice5\\Task1\\Task1\\ILocationInfo.cs",
+              "RelativeToolTip": "Task1\\ILocationInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:11:15.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Practice5\\Task1\\Task1\\Location.cs",
+              "RelativeDocumentMoniker": "Task1\\Location.cs",
+              "ToolTip": "C:\\Users\\yaros\\Practice5\\Task1\\Task1\\Location.cs",
+              "RelativeToolTip": "Task1\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:10:23.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Practice5\\Task1\\Task1\\City.cs",
+              "RelativeDocumentMoniker": "Task1\\City.cs",
+              "ToolTip": "C:\\Users\\yaros\\Practice5\\Task1\\Task1\\City.cs",
+              "RelativeToolTip": "Task1\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:09:24.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Village.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Practice5\\Task1\\Task1\\Village.cs",
+              "RelativeDocumentMoniker": "Task1\\Village.cs",
+              "ToolTip": "C:\\Users\\yaros\\Practice5\\Task1\\Task1\\Village.cs",
+              "RelativeToolTip": "Task1\\Village.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:08:12.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Practice5\\Task1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\yaros\\Practice5\\Task1\\Task1\\Program.cs*",
+              "RelativeToolTip": "Task1\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:57:49.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
