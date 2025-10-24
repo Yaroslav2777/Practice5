@@ -1,4 +1,5 @@
 # Practice5
 
 ## Task 1
-<img width="1027" height="763" alt="image" src="https://github.com/user-attachments/assets/f6716b8f-c8d6-4e76-8cea-dd90823baaed" />
+<img width="978" height="634" alt="image" src="https://github.com/user-attachments/assets/8f2279d1-db7a-4cb9-894a-646dd3c557eb" />
+
